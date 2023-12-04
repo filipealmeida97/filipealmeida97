@@ -1,18 +1,18 @@
-# Oie devs 👋
+# Olá devs 👋
 
-Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
+Gosto de criar softwares e ajudar outras pessoas com as minhas soluções.
 
 ## Mais sobre mim
 
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
 ```kotlin
-object Filipe {
- val name = "Filipe Gomes de Almeida"
- val acknowledgements = "Desenvolvimento full stack"
+class Filipe {
+ const $name = "Filipe Gomes de Almeida"
+ private $acknowledgements = "Desenvolvimento full stack"
 
- val primarySkillset = "HABILIDADES"
- val languages = listOf("PHP", "JavaScript", "Bootstrap", "Wordpress", "Framework GOLF", "HTML5", "CSS3", "MySQL","MariaDB", "Linguagem SQL", "OOP", "MVC");
+ private $primarySkillset = "HABILIDADES"
+ private $languagesAndTools = listOf("PHP", "JavaScript", "Bootstrap", "Wordpress", "Framework GOLF", "HTML5", "CSS3", "MySQL","MariaDB", "Linguagem SQL", "OOP", "MVC");
 
 }
 ```
@@ -43,6 +43,18 @@ object Filipe {
     height="30"
     src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"
     alt="Logo CSS"/></code>
+<code><img
+    height="30"
+    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"
+    alt="Logo PHP"/></code>
+<code><img
+    height="30"
+    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"
+    alt="Logo MySQL"/></code>
+<code><img
+    height="30"
+    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"
+    alt="Logo Bootstrap"/></code>
 
 ## Status
 
