@@ -67,11 +67,3 @@ class Person {
 </a>
 
 <br>
-
-## Rede sociais
-
-🏡 [Website][website] **|**
-🐦 [Twitter][twitter] **|**
-📺 [Youtube][youtube] **|**
-📷 [Instagram][instagram] **|**
-👔 [LinkedIn][linkedin]
