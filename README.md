@@ -12,7 +12,18 @@ class Person {
  private $acknowledgements = "Desenvolvimento full stack"
 
  private $primarySkillset = "HABILIDADES"
- private $languagesAndTools = listOf("PHP", "JavaScript", "Bootstrap", "Wordpress", "Framework GOLF", "HTML5", "CSS3", "MySQL","MariaDB", "Linguagem SQL", "OOP", "MVC");
+ private $languagesAndTools = listOf("PHP",
+                                     "JavaScript",
+                                     "Bootstrap",
+                                     "Wordpress",
+                                     "Framework GOLF",
+                                     "HTML5",
+                                     "CSS3",
+                                     "MySQL",
+                                     "MariaDB",
+                                     "Linguagem SQL",
+                                     "OOP",
+                                     "MVC");
 
 }
 ```
@@ -43,6 +54,10 @@ class Person {
     height="30"
     src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"
     alt="Logo MySQL"/></code>
+<code><img
+    height="30"
+    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png"
+    alt="Logo Wordpress"/></code>
 <code><img
     height="30"
     src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"
