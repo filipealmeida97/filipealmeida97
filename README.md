@@ -1,6 +1,6 @@
 # Olá devs 👋
 
-Sou **Filipe Almeida**, Desenvolvedor Full Stack no Rio de Janeiro (RJ), trabalhando remoto.
+Sou **Filipe Almeida**, Desenvolvedor Full Stack no Rio de Janeiro (RJ).
 
 Tenho 3 anos de experiência em uma fintech de ativos judiciais, onde atuo de ponta a ponta: crio produtos do zero, desenvolvo APIs REST em Django/DRF, front-end em React/Next.js e infraestrutura AWS provisionada com Terraform. Também sou fundador da **Develpross**, onde entrego projetos full cycle desde 2017.
 
